@@ -1,0 +1,10 @@
+1.) sequential network
+2.) dense layers
+3.) activation function - sigmoid, tanh, relu,leaky relu
+4.) optimizers- back propagation - for updating the weights
+5.) loss function
+6.) metrics - accuracy
+7.) training - logs - folder- tensor board- visualization
+
+
+x_train no of columns = layers
